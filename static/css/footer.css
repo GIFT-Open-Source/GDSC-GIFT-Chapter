@@ -107,11 +107,6 @@ footer{
   align-items: center;
 }
 
-/* .btn button{ 
- 
-  height: 35px;
- cursor: pointer;
-}*/
 
 form{
 
@@ -122,20 +117,7 @@ form{
   right: 50px;
   
 }
-/* .main-content{ 
-    display: flex;
-    text-align: center;
-    align-items: center;
-    justify-content: center;
-}*/
-/* html,body{ 
-    position:fixed;
-  display: grid;
-  height: 100%;
-  width: 100%;
-  place-items: center;
-  background: linear-gradient(315deg, #ffffff 0%, #d7e1ec 74%);
-}*/
+
 .wrapper{
     left: 22px;
   display: inline-flex;
